@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**hju00/hju00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hju00&fontSize=60&fontAlign=50&fontAlignY=40&descAlign=50&&animation=twinkling"/>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :pushpin: Who am I ?
+
+- Pusan National University Computer Engineering 
+- Focusing on `Cloud`,`Automation'
+
+---
+
+### :wrench: Tech Stack
+
+|Category|Contents|
+|:---:|:---:|
+|OS|<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black"/>|
+|Programming|<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social">|
+|Public Cloud||
+|Container|<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/>|
+|DevOps||
+|Team Productivity||
+
+---
+
+### :trophy: Certification
+
+---
+
+### :speech_balloon: Languages
+
+|Language|Test|Score/Grade|Expired|
+|:---:|:---:|:---:|:---:|
+|Korean|-|모국어 (Native)|-|
+|English|TOEIC|975(LC 495, RC 480)|2023-06-27|
+|English|OPIC|IM3|2024-08-19|
+
+
+---
