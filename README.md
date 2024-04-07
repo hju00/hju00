@@ -6,7 +6,7 @@
 ### :pushpin: Who am I ?
 
 - Pusan National University Computer Engineering 
-- Focusing on `Cloud`,`Automation`
+- Focusing on `Cloud`
 
 ---
 
