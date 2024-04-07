@@ -6,7 +6,7 @@
 ### :pushpin: Who am I ?
 
 - Pusan National University Computer Engineering 
-- Focusing on `Cloud`,`Automation'
+- Focusing on `Cloud`,`Automation`
 
 ---
 
@@ -32,8 +32,8 @@
 |Language|Test|Score/Grade|Expired|
 |:---:|:---:|:---:|:---:|
 |Korean|-|모국어 (Native)|-|
-|English|TOEIC|975(LC 495, RC 480)|2023-06-27|
-|English|OPIC|IM3|2024-08-19|
+|English|TOEIC|||
+|English|OPIC|||
 
 
 ---
