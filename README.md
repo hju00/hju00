@@ -23,8 +23,8 @@
 
 ---
 
-### :trophy: Certification
-
+### :trophy: Problem Solving  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=a5672a)](https://solved.ac/a5672a)
 ---
 
 ### :speech_balloon: Languages
@@ -33,7 +33,6 @@
 |:---:|:---:|:---:|:---:|
 |Korean|-|모국어 (Native)|-|
 |English|TOEIC SPEAKING|IM3|2027.06.14.|
-|English|OPIC|||
 
 
 ---
