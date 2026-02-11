@@ -1,5 +1,4 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hju00&fontSize=60&fontAlign=50&fontAlignY=40&descAlign=50&&animation=twinkling"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:DC143C&text=&animation=twinkling&height=80) [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=2C2C2C&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+hju%27s+GitHub!%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
